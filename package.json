@@ -1,0 +1,28 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "express example application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudolphh/node-mod-2-express.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Rudy A Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudolphh/node-mod-2-express/issues"
+  },
+  "homepage": "https://github.com/rudolphh/node-mod-2-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
